@@ -1,0 +1,15 @@
+naming:
+  MatchingDeclarationName:
+    active: false
+style:
+  MagicNumber:
+    active: false
+build:
+  maxIssues: 0
+complexity:
+  LongParameterList:
+    ignoreDefaultParameters: true
+  TooManyFunctions:
+    ignorePrivate: true
+    thresholdInFiles: 30
+    thresholdInClasses: 20

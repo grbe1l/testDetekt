@@ -1,0 +1,6 @@
+config:
+  validation: true
+  excludes: "custom-Detekt"
+custom-Detekt:
+  removePrints:
+    active: true

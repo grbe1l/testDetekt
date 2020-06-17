@@ -1,0 +1,1 @@
+C:\Repo2020\testProject\buildSrc\build\classes\kotlin\main\Deps.class;C:\Repo2020\testProject\buildSrc\build\classes\kotlin\main\Plugins.class;C:\Repo2020\testProject\buildSrc\build\classes\kotlin\main\Versions.class
